@@ -1,0 +1,64 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\..\..\..\WINNT\system32\stdole2.tlb#OLE Automation
+Reference=*\G{50A7E9B0-70EF-11D1-B75A-00A0C90564FE}#1.0#0#..\..\..\..\..\..\..\WINNT\system32\shell32.dll#Microsoft Shell Controls And Automation
+Reference=*\G{EF404E00-EDA6-101A-8DAF-00DD010F7EBB}#5.3#0#..\..\..\..\..\..\..\Programme\Microsoft Visual Studio\VB98\VB6EXT.OLB#Microsoft Visual Basic 6.0 Extensibility
+Reference=*\G{00000200-0000-0010-8000-00AA006D2EA4}#2.0#0#..\..\..\..\..\..\..\Programme\Gemeinsame Dateien\System\ADO\msado20.tlb#Microsoft ActiveX Data Objects 2.0 Library
+Reference=*\G{7C0FFAB0-CD84-11D0-949A-00A0C91110ED}#1.0#0#..\..\..\..\..\..\..\WINNT\system32\msdatsrc.tlb#Microsoft Data Source Interfaces
+Reference=*\G{56BF9020-7A2F-11D0-9482-00A0C91110ED}#1.0#0#..\..\..\..\..\..\..\WINNT\system32\MSBIND.DLL#Microsoft Data Binding Collection
+Reference=*\G{6B263850-900B-11D0-9484-00A0C91110ED}#1.0#0#..\..\..\..\..\..\..\WINNT\system32\MSSTDFMT.DLL#Microsoft Data Formatting Object Library
+Reference=*\G{00025E01-0000-0000-C000-000000000046}#4.0#0#..\..\..\..\..\..\..\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\dao350.dll#Microsoft DAO 3.51 Object Library
+Reference=*\G{4CAB1D7C-7741-4BA8-947A-BEEC6F1F44BE}#3.0#0#..\..\..\..\..\..\..\WINNT\system32\MyVbQL.dll#MySQL Visual Basic API v2.0.0
+Object={6B7E6392-850A-101B-AFC0-4210102A8DA7}#1.3#0; comctl32.ocx
+Object={5E9E78A0-531B-11CF-91F6-C2863C385E30}#1.0#0; MSFLXGRD.OCX
+Form=Form1.frm
+Module=Create_ini; Module1.bas
+Form=frmAbout.frm
+Module=OnlyCharaters; OnlyCharaters.bas
+Module=country; country.bas
+Module=config_ini; readini.bas
+Module=MySQLdb; Module2.bas
+Module=GlobalVariables; varglobal.bas
+Module=Module4; Microface Results.bas
+Module=A_Coments; A_Coments.bas
+Module=MakleQueryCSVToDB; MakleQueryCSVToDB.bas
+Form=FormMeldung.frm
+IconForm="Form1"
+Startup="Form1"
+HelpFile=""
+Title="Microface Export"
+ExeName32="LTF-Microface-db-tools.exe"
+Command32=""
+Name="LTFMFdbTools"
+HelpContextID="0"
+Description="Create from Microface, for *.csv = 1x file and for all *.l* 1x file, these files (tow files) have default csv-standards."
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=64
+AutoIncrementVer=1
+ServerSupportFiles=0
+VersionComments="You can use that for all files with seperator = , without ". This tool create standard files for import to Excel or others."
+VersionCompanyName="little tools farm®"
+VersionFileDescription="Export from Microface csv-files, for *.csv = 1x file and for all *.l* 1x file, these files (tow files) have default, csv-standards or export / import to database or anyone."
+VersionLegalCopyright="H.Volk"
+VersionLegalTrademarks="little tools farm®"
+VersionProductName="Export for Microface dynos"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=-1
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+DebugStartupOption=0
+
+[MS Transaction Server]
+AutoRefresh=1

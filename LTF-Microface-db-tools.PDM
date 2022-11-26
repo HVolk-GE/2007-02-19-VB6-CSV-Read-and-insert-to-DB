@@ -1,0 +1,3240 @@
+[Root]
+Most Recent Package=Standardm‰ﬂiges Setup-Paket 24-03-2007
+Most Recent Deploy=MF Search and Create csv 1
+
+
+[Package|DEP-MFSearch-And-Create-csv 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Read and create\MF-CSV-Create\Neuer Ordner
+
+[Package|DEP-MFSearch-And-Create-csv 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|DEP-MFSearch-And-Create-csv 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|DEP-MFSearch-And-Create-csv 1|Files Found]
+
+[Package|DEP-MFSearch-And-Create-csv 1|Files Released]
+
+[Package|DEP-MFSearch-And-Create-csv 1|Missing Dependency Information]
+C:\WINNT\system32\daxctle.ocx=
+C:\WINNT\system32\MSSTDFMT.DLL=
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\CHARTWIZ.OCX=
+C:\WINNT\system32\sysmon.ocx=
+
+[Package|DEP-MFSearch-And-Create-csv 1|Out-of-Date Dependency Information]
+
+[Package|DEP-MFSearch-And-Create-csv 1|Files Added]
+
+[Package|DEP-MFSearch-And-Create-csv 1|Files Removed]
+
+[Package|DEP-MFSearch-And-Create-csv 1|Files In Project]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Read and create\MF-CSV-Create\MF-CSV-Create.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\sysmon.ocx=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\CHARTWIZ.OCX=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\daxctle.ocx=Yes
+
+[Package|DEP-MFSearch-And-Create-csv 1|Configure Registry Files]
+Applicable=
+
+[Package|DEP-MFSearch-And-Create-csv 1|Configure Remote Servers]
+Applicable=
+
+[Package|DEP-MFSearch-And-Create-csv 1|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Read and create\MF-CSV-Create\MF-CSV-Create.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\WINNT\system32\sysmon.ocx=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\CHARTWIZ.OCX=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\daxctle.ocx=$(WinSysPath)
+
+[Package|DEP-MFSearch-And-Create-csv 1|Configure Shared Files]
+Applicable=
+
+[Package|DEP-MFSearch-And-Create-csv 1|DepFile]
+DepCabFile=MF-CSV-Create.CAB
+DepCabRun=MF-CSV-Create.INF
+
+[Package|DEP-MFSearch-And-Create-csv 1|Package]
+PackageFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Read and create\MF-CSV-Create\Neuer Ordner
+ProjectFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Read and create
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Read and create\MF-CSV-Create\Neuer Ordner\MF-CSV-Create.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Deploy|MF Search and Create csv 1|Root]
+Package=DEP-MFSearch-And-Create-csv 1
+Handler=PDWizard.FolderDplySubWiz
+Folder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Read and create\MF-CSV-Create\Neuer Ordner (2)
+
+
+[Package|Search and create csv-files Setup-Paket 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Read and create\MF-CSV-Create\Neuer Ordner
+
+[Package|Search and create csv-files Setup-Paket 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Search and create csv-files Setup-Paket 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Search and create csv-files Setup-Paket 1|Files Found]
+
+[Package|Search and create csv-files Setup-Paket 1|Files Released]
+
+[Package|Search and create csv-files Setup-Paket 1|Missing Dependency Information]
+C:\WINNT\system32\daxctle.ocx=
+C:\WINNT\system32\MSSTDFMT.DLL=
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\CHARTWIZ.OCX=
+C:\WINNT\system32\sysmon.ocx=
+
+[Package|Search and create csv-files Setup-Paket 1|Out-of-Date Dependency Information]
+
+[Package|Search and create csv-files Setup-Paket 1|Files Added]
+
+[Package|Search and create csv-files Setup-Paket 1|Files Removed]
+
+[Package|Search and create csv-files Setup-Paket 1|Files In Project]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Read and create\MF-CSV-Create\MF-CSV-Create.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\sysmon.ocx=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\CHARTWIZ.OCX=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\daxctle.ocx=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Search and create csv-files Setup-Paket 1|Configure Registry Files]
+Applicable=No
+
+[Package|Search and create csv-files Setup-Paket 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Search and create csv-files Setup-Paket 1|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Read and create\MF-CSV-Create\MF-CSV-Create.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\WINNT\system32\sysmon.ocx=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\CHARTWIZ.OCX=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\daxctle.ocx=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Search and create csv-files Setup-Paket 1|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Read and create\MF-CSV-Create\MF-CSV-Create.exe=Yes
+
+[Package|Search and create csv-files Setup-Paket 1|DepFile]
+DepCabFile=MF-CSV-Create.CAB
+DepCabRun=MF-CSV-Create.INF
+
+[Package|Search and create csv-files Setup-Paket 1|Distribution]
+Type=single
+Size=
+Title=MF Search and Create csv-Files
+
+[Package|Search and create csv-files Setup-Paket 1|IconGroups]
+Group0=MF Search and Create csv-Files
+PrivateGroup0=Wahr
+Parent0=$(Programs)
+
+[Package|Search and create csv-files Setup-Paket 1|MF Search and Create csv-Files]
+Icon1=MF-CSV-Create.exe
+Title1=MF Search and Create csv-Files
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Search and create csv-files Setup-Paket 1|Package]
+PackageFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Read and create\MF-CSV-Create\Neuer Ordner
+ProjectFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Read and create
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Read and create\MF-CSV-Create\Neuer Ordner\setup.exe
+File2=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Read and create\MF-CSV-Create\Neuer Ordner\Setup.Lst
+File3=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\Read and create\MF-CSV-Create\Neuer Ordner\MF-CSV-Create.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|DEP-Datei MF-copy and create csv-files 05-04-2006|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create
+
+[Package|DEP-Datei MF-copy and create csv-files 05-04-2006|Configure DAO ISAMs]
+Applicable=No
+
+[Package|DEP-Datei MF-copy and create csv-files 05-04-2006|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|DEP-Datei MF-copy and create csv-files 05-04-2006|Files Found]
+
+[Package|DEP-Datei MF-copy and create csv-files 05-04-2006|Files Released]
+
+[Package|DEP-Datei MF-copy and create csv-files 05-04-2006|Missing Dependency Information]
+
+[Package|DEP-Datei MF-copy and create csv-files 05-04-2006|Out-of-Date Dependency Information]
+
+[Package|DEP-Datei MF-copy and create csv-files 05-04-2006|Files Added]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=
+
+[Package|DEP-Datei MF-copy and create csv-files 05-04-2006|Files Removed]
+
+[Package|DEP-Datei MF-copy and create csv-files 05-04-2006|Files In Project]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\sysmon.ocx=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\CHARTWIZ.OCX=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\daxctle.ocx=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=Yes
+
+[Package|DEP-Datei MF-copy and create csv-files 05-04-2006|Configure Registry Files]
+Applicable=
+
+[Package|DEP-Datei MF-copy and create csv-files 05-04-2006|Configure Remote Servers]
+Applicable=
+
+[Package|DEP-Datei MF-copy and create csv-files 05-04-2006|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\WINNT\system32\sysmon.ocx=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\CHARTWIZ.OCX=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\daxctle.ocx=$(WinSysPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=$(AppPath)
+
+[Package|DEP-Datei MF-copy and create csv-files 05-04-2006|Configure Shared Files]
+Applicable=
+
+[Package|DEP-Datei MF-copy and create csv-files 05-04-2006|DepFile]
+DepCabFile=MF-CSV-Create.CAB
+DepCabRun=MF-CSV-Create.INF
+
+[Package|DEP-Datei MF-copy and create csv-files 05-04-2006|Package]
+PackageFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create
+ProjectFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges Microface copy and create csv-files Setup-Paket 05-04-2006|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-05-MF Read and create csv Files
+
+[Package|Standardm‰ﬂiges Microface copy and create csv-files Setup-Paket 05-04-2006|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Microface copy and create csv-files Setup-Paket 05-04-2006|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Microface copy and create csv-files Setup-Paket 05-04-2006|Files Found]
+
+[Package|Standardm‰ﬂiges Microface copy and create csv-files Setup-Paket 05-04-2006|Files Released]
+
+[Package|Standardm‰ﬂiges Microface copy and create csv-files Setup-Paket 05-04-2006|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges Microface copy and create csv-files Setup-Paket 05-04-2006|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Microface copy and create csv-files Setup-Paket 05-04-2006|Files Added]
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\mf read and create csv files\create.ini=
+
+[Package|Standardm‰ﬂiges Microface copy and create csv-files Setup-Paket 05-04-2006|Files Removed]
+
+[Package|Standardm‰ﬂiges Microface copy and create csv-files Setup-Paket 05-04-2006|Files In Project]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\sysmon.ocx=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\CHARTWIZ.OCX=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\daxctle.ocx=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standardm‰ﬂiges Microface copy and create csv-files Setup-Paket 05-04-2006|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Microface copy and create csv-files Setup-Paket 05-04-2006|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Microface copy and create csv-files Setup-Paket 05-04-2006|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\WINNT\system32\sysmon.ocx=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\CHARTWIZ.OCX=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\daxctle.ocx=$(WinSysPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standardm‰ﬂiges Microface copy and create csv-files Setup-Paket 05-04-2006|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=No
+
+[Package|Standardm‰ﬂiges Microface copy and create csv-files Setup-Paket 05-04-2006|DepFile]
+DepCabFile=MF-CSV-Create.CAB
+DepCabRun=MF-CSV-Create.INF
+
+[Package|Standardm‰ﬂiges Microface copy and create csv-files Setup-Paket 05-04-2006|Distribution]
+Type=single
+Size=
+Title=Create csv Files
+
+[Package|Standardm‰ﬂiges Microface copy and create csv-files Setup-Paket 05-04-2006|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=Falsch
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Microface copy and create csv-files Setup-Paket 05-04-2006|Little tools FarmÆ-DB-Tools]
+Icon1=MF-CSV-Create.exe
+Title1=Microface copy and create csv files
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Microface copy and create csv-files Setup-Paket 05-04-2006|Package]
+PackageFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-05-MF Read and create csv Files
+ProjectFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-05-MF Read and create csv Files\setup.exe
+File2=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-05-MF Read and create csv Files\Setup.Lst
+File3=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-05-MF Read and create csv Files\MF-CSV-Create.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|DEP-Setup new MF read and create csv-files - 06-04-2006|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-06-MF Read and create csv-files
+
+[Package|DEP-Setup new MF read and create csv-files - 06-04-2006|Configure DAO ISAMs]
+Applicable=No
+
+[Package|DEP-Setup new MF read and create csv-files - 06-04-2006|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|DEP-Setup new MF read and create csv-files - 06-04-2006|Files Found]
+
+[Package|DEP-Setup new MF read and create csv-files - 06-04-2006|Files Released]
+
+[Package|DEP-Setup new MF read and create csv-files - 06-04-2006|Missing Dependency Information]
+
+[Package|DEP-Setup new MF read and create csv-files - 06-04-2006|Out-of-Date Dependency Information]
+
+[Package|DEP-Setup new MF read and create csv-files - 06-04-2006|Files Added]
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\mf read and create csv files\create.ini=
+
+[Package|DEP-Setup new MF read and create csv-files - 06-04-2006|Files Removed]
+
+[Package|DEP-Setup new MF read and create csv-files - 06-04-2006|Files In Project]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\sysmon.ocx=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\daxctle.ocx=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=Yes
+C:\WINNT\system32\CHARTWIZ.OCX=Yes
+
+[Package|DEP-Setup new MF read and create csv-files - 06-04-2006|Configure Registry Files]
+Applicable=No
+
+[Package|DEP-Setup new MF read and create csv-files - 06-04-2006|Configure Remote Servers]
+Applicable=No
+
+[Package|DEP-Setup new MF read and create csv-files - 06-04-2006|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\WINNT\system32\sysmon.ocx=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\CHARTWIZ.OCX=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\daxctle.ocx=$(WinSysPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINNT\system32\CHARTWIZ.OCX=$(WinSysPath)
+
+[Package|DEP-Setup new MF read and create csv-files - 06-04-2006|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=No
+
+[Package|DEP-Setup new MF read and create csv-files - 06-04-2006|DepFile]
+DepCabFile=MF-CSV-Create.CAB
+DepCabRun=MF-CSV-Create.INF
+
+[Package|DEP-Setup new MF read and create csv-files - 06-04-2006|Distribution]
+Type=single
+Size=
+Title=Create csv Files
+
+[Package|DEP-Setup new MF read and create csv-files - 06-04-2006|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=Falsch
+Parent0=$(Programs)
+
+[Package|DEP-Setup new MF read and create csv-files - 06-04-2006|Little tools FarmÆ-DB-Tools]
+Icon1=MF-CSV-Create.exe
+Title1=Microface copy and create csv files
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|DEP-Setup new MF read and create csv-files - 06-04-2006|Package]
+PackageFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-06-MF Read and create csv-files
+ProjectFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-06-MF Read and create csv-files\MF-CSV-Create.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-06-MF Read and create csv-files
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 1|Files Found]
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 1|Files Released]
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 1|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 1|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 1|Files Added]
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\mf read and create csv files\create.ini=
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 1|Files Removed]
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 1|Files In Project]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\sysmon.ocx=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\daxctle.ocx=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=Yes
+C:\WINNT\system32\CHARTWIZ.OCX=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 1|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\WINNT\system32\sysmon.ocx=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\CHARTWIZ.OCX=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\daxctle.ocx=$(WinSysPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINNT\system32\CHARTWIZ.OCX=$(WinSysPath)
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 1|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=No
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 1|DepFile]
+DepCabFile=MF-CSV-Create.CAB
+DepCabRun=MF-CSV-Create.INF
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 1|Distribution]
+Type=single
+Size=
+Title=MF copy and create csv-files
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 1|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=Falsch
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 1|Little tools FarmÆ-DB-Tools]
+Icon1=MF-CSV-Create.exe
+Title1=Microface copy and create csv files
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 1|Package]
+PackageFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-06-MF Read and create csv-files
+ProjectFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-06-MF Read and create csv-files\setup.exe
+File2=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-06-MF Read and create csv-files\Setup.Lst
+File3=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-06-MF Read and create csv-files\MF-CSV-Create.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-06-MF Read and create csv-files-2
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 2|Files Found]
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 2|Files Released]
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 2|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 2|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 2|Files Added]
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\mf read and create csv files\create.ini=
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 2|Files Removed]
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 2|Files In Project]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\sysmon.ocx=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\daxctle.ocx=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=Yes
+C:\WINNT\system32\CHARTWIZ.OCX=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 2|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 2|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\WINNT\system32\sysmon.ocx=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\CHARTWIZ.OCX=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\daxctle.ocx=$(WinSysPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINNT\system32\CHARTWIZ.OCX=$(WinSysPath)
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 2|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=No
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 2|DepFile]
+DepCabFile=MF-CSV-Create.CAB
+DepCabRun=MF-CSV-Create.INF
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 2|Distribution]
+Type=single
+Size=
+Title=Little tools FarmÆ "Microface Copy and Create csv-files"
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 2|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=Falsch
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 2|Little tools FarmÆ-DB-Tools]
+Icon1=MF-CSV-Create.exe
+Title1=Microface copy and create csv files
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges MF 06-04-2006-Setup-Paket 2|Package]
+PackageFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-06-MF Read and create csv-files-2
+ProjectFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-06-MF Read and create csv-files-2\setup.exe
+File2=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-06-MF Read and create csv-files-2\Setup.Lst
+File3=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-06-MF Read and create csv-files-2\MF-CSV-Create.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|DEP-MF-Read and create csv-files 2|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-09-MF-Read-and-Create csv files
+
+[Package|DEP-MF-Read and create csv-files 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|DEP-MF-Read and create csv-files 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|DEP-MF-Read and create csv-files 2|Files Found]
+
+[Package|DEP-MF-Read and create csv-files 2|Files Released]
+
+[Package|DEP-MF-Read and create csv-files 2|Missing Dependency Information]
+
+[Package|DEP-MF-Read and create csv-files 2|Out-of-Date Dependency Information]
+
+[Package|DEP-MF-Read and create csv-files 2|Files Added]
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\mf read and create csv files\create.ini=
+
+[Package|DEP-MF-Read and create csv-files 2|Files Removed]
+
+[Package|DEP-MF-Read and create csv-files 2|Files In Project]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\sysmon.ocx=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\daxctle.ocx=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=Yes
+C:\WINNT\system32\CHARTWIZ.OCX=Yes
+
+[Package|DEP-MF-Read and create csv-files 2|Configure Registry Files]
+Applicable=No
+
+[Package|DEP-MF-Read and create csv-files 2|Configure Remote Servers]
+Applicable=No
+
+[Package|DEP-MF-Read and create csv-files 2|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\WINNT\system32\sysmon.ocx=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\CHARTWIZ.OCX=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\daxctle.ocx=$(WinSysPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINNT\system32\CHARTWIZ.OCX=$(WinSysPath)
+
+[Package|DEP-MF-Read and create csv-files 2|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=No
+
+[Package|DEP-MF-Read and create csv-files 2|DepFile]
+DepCabFile=MF-CSV-Create.CAB
+DepCabRun=MF-CSV-Create.INF
+
+[Package|DEP-MF-Read and create csv-files 2|Distribution]
+Type=single
+Size=
+Title=Little tools FarmÆ "Microface Copy and Create csv-files"
+
+[Package|DEP-MF-Read and create csv-files 2|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=Falsch
+Parent0=$(Programs)
+
+[Package|DEP-MF-Read and create csv-files 2|Little tools FarmÆ-DB-Tools]
+Icon1=MF-CSV-Create.exe
+Title1=Microface copy and create csv files
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|DEP-MF-Read and create csv-files 2|Package]
+PackageFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-09-MF-Read-and-Create csv files
+ProjectFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-09-MF-Read-and-Create csv files\MF-CSV-Create.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 09-04-2006|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-09-MF-Read-and-Create csv files
+
+[Package|Standardm‰ﬂiges Setup-Paket 09-04-2006|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 09-04-2006|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 09-04-2006|Files Found]
+
+[Package|Standardm‰ﬂiges Setup-Paket 09-04-2006|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 09-04-2006|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 09-04-2006|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 09-04-2006|Files Added]
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\mf read and create csv files\create.ini=
+
+[Package|Standardm‰ﬂiges Setup-Paket 09-04-2006|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 09-04-2006|Files In Project]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\sysmon.ocx=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\daxctle.ocx=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=Yes
+C:\WINNT\system32\CHARTWIZ.OCX=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 09-04-2006|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 09-04-2006|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 09-04-2006|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\WINNT\system32\sysmon.ocx=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\CHARTWIZ.OCX=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\daxctle.ocx=$(WinSysPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINNT\system32\CHARTWIZ.OCX=$(WinSysPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 09-04-2006|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 09-04-2006|DepFile]
+DepCabFile=MF-CSV-Create.CAB
+DepCabRun=MF-CSV-Create.INF
+
+[Package|Standardm‰ﬂiges Setup-Paket 09-04-2006|Distribution]
+Type=single
+Size=
+Title=Little tools FarmÆ "Microface Copy and Create csv-files"
+
+[Package|Standardm‰ﬂiges Setup-Paket 09-04-2006|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=Falsch
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 09-04-2006|Little tools FarmÆ-DB-Tools]
+Icon1=MF-CSV-Create.exe
+Title1=Microface copy and create csv files
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 09-04-2006|Package]
+PackageFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-09-MF-Read-and-Create csv files
+ProjectFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-09-MF-Read-and-Create csv files\setup.exe
+File2=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-09-MF-Read-and-Create csv files\Setup.Lst
+File3=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-09-MF-Read-and-Create csv files\MF-CSV-Create.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 11-04-2006|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-11-MF-Read-and-create csv files
+
+[Package|Standardm‰ﬂiges Setup-Paket 11-04-2006|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 11-04-2006|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 11-04-2006|Files Found]
+
+[Package|Standardm‰ﬂiges Setup-Paket 11-04-2006|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 11-04-2006|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 11-04-2006|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 11-04-2006|Files Added]
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\mf read and create csv files\create.ini=
+
+[Package|Standardm‰ﬂiges Setup-Paket 11-04-2006|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 11-04-2006|Files In Project]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\sysmon.ocx=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\daxctle.ocx=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=Yes
+C:\WINNT\system32\CHARTWIZ.OCX=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 11-04-2006|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 11-04-2006|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 11-04-2006|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\WINNT\system32\sysmon.ocx=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\CHARTWIZ.OCX=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\daxctle.ocx=$(WinSysPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINNT\system32\CHARTWIZ.OCX=$(WinSysPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 11-04-2006|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 11-04-2006|DepFile]
+DepCabFile=MF-CSV-Create.CAB
+DepCabRun=MF-CSV-Create.INF
+
+[Package|Standardm‰ﬂiges Setup-Paket 11-04-2006|Distribution]
+Type=single
+Size=
+Title=Microface Copy and Create tow csv-files
+
+[Package|Standardm‰ﬂiges Setup-Paket 11-04-2006|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=Falsch
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 11-04-2006|Little tools FarmÆ-DB-Tools]
+Icon1=MF-CSV-Create.exe
+Title1=Microface copy and create csv files
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 11-04-2006|Package]
+PackageFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-11-MF-Read-and-create csv files
+ProjectFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-11-MF-Read-and-create csv files\setup.exe
+File2=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-11-MF-Read-and-create csv files\Setup.Lst
+File3=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-11-MF-Read-and-create csv files\MF-CSV-Create.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 12-04-2006|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-12-MF-Read-and-create csv files
+
+[Package|Standardm‰ﬂiges Setup-Paket 12-04-2006|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 12-04-2006|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 12-04-2006|Files Found]
+
+[Package|Standardm‰ﬂiges Setup-Paket 12-04-2006|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 12-04-2006|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 12-04-2006|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 12-04-2006|Files Added]
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\mf read and create csv files\create.ini=
+
+[Package|Standardm‰ﬂiges Setup-Paket 12-04-2006|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 12-04-2006|Files In Project]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\sysmon.ocx=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\daxctle.ocx=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=Yes
+C:\WINNT\system32\CHARTWIZ.OCX=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 12-04-2006|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 12-04-2006|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 12-04-2006|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\WINNT\system32\sysmon.ocx=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\CHARTWIZ.OCX=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\daxctle.ocx=$(WinSysPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINNT\system32\CHARTWIZ.OCX=$(WinSysPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 12-04-2006|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 12-04-2006|DepFile]
+DepCabFile=MF-CSV-Create.CAB
+DepCabRun=MF-CSV-Create.INF
+
+[Package|Standardm‰ﬂiges Setup-Paket 12-04-2006|Distribution]
+Type=single
+Size=
+Title=Microface Copy and Create tow csv-files
+
+[Package|Standardm‰ﬂiges Setup-Paket 12-04-2006|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=Falsch
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 12-04-2006|Little tools FarmÆ-DB-Tools]
+Icon1=MF-CSV-Create.exe
+Title1=Microface create all to 2-csv-files
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 12-04-2006|Package]
+PackageFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-12-MF-Read-and-create csv files
+ProjectFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-12-MF-Read-and-create csv files\setup.exe
+File2=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-12-MF-Read-and-create csv files\Setup.Lst
+File3=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-12-MF-Read-and-create csv files\MF-CSV-Create.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-04-2006|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-24-MF-Read-and-create-csv-files
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-04-2006|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-04-2006|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-04-2006|Files Found]
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-04-2006|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-04-2006|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-04-2006|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-04-2006|Files Added]
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\mf read and create csv files\create.ini=
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-04-2006|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-04-2006|Files In Project]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\sysmon.ocx=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\daxctle.ocx=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=Yes
+C:\WINNT\system32\CHARTWIZ.OCX=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-04-2006|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-04-2006|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-04-2006|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\WINNT\system32\sysmon.ocx=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\CHARTWIZ.OCX=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\daxctle.ocx=$(WinSysPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINNT\system32\CHARTWIZ.OCX=$(WinSysPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-04-2006|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-04-2006|DepFile]
+DepCabFile=MF-CSV-Create.CAB
+DepCabRun=MF-CSV-Create.INF
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-04-2006|Distribution]
+Type=single
+Size=
+Title=Microface Create tow CSV-Files
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-04-2006|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=Falsch
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-04-2006|Little tools FarmÆ-DB-Tools]
+Icon1=MF-CSV-Create.exe
+Title1=Microface create all to 2-csv-files
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-04-2006|Package]
+PackageFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-24-MF-Read-and-create-csv-files
+ProjectFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-24-MF-Read-and-create-csv-files\setup.exe
+File2=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-24-MF-Read-and-create-csv-files\Setup.Lst
+File3=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-24-MF-Read-and-create-csv-files\MF-CSV-Create.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006-1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-25
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006-1|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006-1|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006-1|Files Found]
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006-1|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006-1|Missing Dependency Information]
+C:\Programme\sdb\DBM\DBMGrd3.ocx=
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006-1|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSRDO20.DLL=
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006-1|Files Added]
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\mf read and create csv files\create.ini=
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006-1|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006-1|Files In Project]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\sysmon.ocx=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\daxctle.ocx=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=Yes
+C:\WINNT\system32\CHARTWIZ.OCX=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Programme\sdb\DBM\DBMGrd3.ocx=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSRDO20.DLL=Yes
+C:\WINNT\system32\RDOCURS.DLL=Yes
+C:\WINNT\system32\RDO20DE.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006-1|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006-1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006-1|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\WINNT\system32\sysmon.ocx=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\CHARTWIZ.OCX=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\daxctle.ocx=$(WinSysPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINNT\system32\CHARTWIZ.OCX=$(WinSysPath)
+C:\Programme\sdb\DBM\DBMGrd3.ocx=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINNT\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINNT\system32\ODBC32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\RDO20DE.DLL=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006-1|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=No
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006-1|DepFile]
+DepCabFile=MF-CSV-Create.CAB
+DepCabRun=MF-CSV-Create.INF
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006-1|Distribution]
+Type=single
+Size=
+Title=Microface Create tow CSV-Files
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006-1|Package]
+PackageFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-25
+ProjectFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-25\setup.exe
+File2=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-25\Setup.Lst
+File3=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-25\MF-CSV-Create.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006-1|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=Falsch
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006-1|Little tools FarmÆ-DB-Tools]
+Icon1=MF-CSV-Create.exe
+Title1=Microface create all to 2-csv-files
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-25-MF-Read-and-create-csv-files
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006|Files Found]
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006|Missing Dependency Information]
+C:\Programme\sdb\DBM\DBMGrd3.ocx=
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSRDO20.DLL=
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006|Files Added]
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\mf read and create csv files\create.ini=
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006|Files In Project]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\sysmon.ocx=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\daxctle.ocx=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=Yes
+C:\WINNT\system32\CHARTWIZ.OCX=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Programme\sdb\DBM\DBMGrd3.ocx=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSRDO20.DLL=Yes
+C:\WINNT\system32\RDOCURS.DLL=Yes
+C:\WINNT\system32\RDO20DE.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\WINNT\system32\sysmon.ocx=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\CHARTWIZ.OCX=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\daxctle.ocx=$(WinSysPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINNT\system32\CHARTWIZ.OCX=$(WinSysPath)
+C:\Programme\sdb\DBM\DBMGrd3.ocx=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINNT\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINNT\system32\ODBC32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\RDO20DE.DLL=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\MF-CSV-Create\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=No
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006|DepFile]
+DepCabFile=MF-CSV-Create.CAB
+DepCabRun=MF-CSV-Create.INF
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006|Distribution]
+Type=single
+Size=
+Title=Microface Create tow CSV-Files
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=Falsch
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006|Little tools FarmÆ-DB-Tools]
+Icon1=MF-CSV-Create.exe
+Title1=Microface create all to 2-csv-files
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 25-04-2006|Package]
+PackageFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-25-MF-Read-and-create-csv-files
+ProjectFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-25-MF-Read-and-create-csv-files\setup.exe
+File2=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-25-MF-Read-and-create-csv-files\Setup.Lst
+File3=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-25-MF-Read-and-create-csv-files\MF-CSV-Create.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 26-04-2006|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-26-MF-Read-and-create-csv-files
+
+[Package|Standardm‰ﬂiges Setup-Paket 26-04-2006|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 26-04-2006|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 26-04-2006|Files Found]
+
+[Package|Standardm‰ﬂiges Setup-Paket 26-04-2006|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 26-04-2006|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 26-04-2006|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 26-04-2006|Files Added]
+c:\dokumente und einstellungen\administrator\eigene dateien\visual basic 6.0\mf read and create csv files\create.ini=
+
+[Package|Standardm‰ﬂiges Setup-Paket 26-04-2006|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 26-04-2006|Files In Project]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-26-MF-Read-and-create-csv-files\MF-CSV-Create.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\Msstdfmt.dll=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\COMCTL32.OCX=Yes
+C:\WINNT\system32\CMCTLDE.DLL=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 26-04-2006|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 26-04-2006|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 26-04-2006|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-26-MF-Read-and-create-csv-files\MF-CSV-Create.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\Msstdfmt.dll=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINNT\system32\CMCTLDE.DLL=$(WinSysPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 26-04-2006|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-26-MF-Read-and-create-csv-files\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 26-04-2006|DepFile]
+DepCabFile=MF-CSV-Create.CAB
+DepCabRun=MF-CSV-Create.INF
+
+[Package|Standardm‰ﬂiges Setup-Paket 26-04-2006|Distribution]
+Type=single
+Size=
+Title=Microface create all to tow CSV-Files
+
+[Package|Standardm‰ﬂiges Setup-Paket 26-04-2006|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=Wahr
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 26-04-2006|Little tools FarmÆ-DB-Tools]
+Icon1=MF-CSV-Create.exe
+Title1=Microface create all to tow CSV-Files
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 26-04-2006|Package]
+PackageFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-26-MF-Read-and-create-csv-files
+ProjectFolder=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-26-MF-Read-and-create-csv-files\setup.exe
+File2=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-26-MF-Read-and-create-csv-files\Setup.Lst
+File3=C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-26-MF-Read-and-create-csv-files\MF-CSV-Create.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 04-09-2006|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Temp\Microface Database - csv
+
+[Package|Standardm‰ﬂiges Setup-Paket 04-09-2006|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 04-09-2006|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 04-09-2006|Files Found]
+Create.ini=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\MF Read and create csv Files\Create.ini
+
+[Package|Standardm‰ﬂiges Setup-Paket 04-09-2006|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 04-09-2006|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 04-09-2006|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 04-09-2006|Files Added]
+create.ini=
+
+[Package|Standardm‰ﬂiges Setup-Paket 04-09-2006|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 04-09-2006|Files In Project]
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\Msstdfmt.dll=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\COMCTL32.OCX=Yes
+C:\WINNT\system32\CMCTLDE.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\MF Read and create csv Files\2006-04-26-MF-Read-and-create-csv-files\MF-CSV-Create.exe=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\WINNT\system32\STDFTDE.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\MF Read and create csv Files\Create.ini=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 04-09-2006|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 04-09-2006|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 04-09-2006|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-26-MF-Read-and-create-csv-files\MF-CSV-Create.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\Msstdfmt.dll=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINNT\system32\CMCTLDE.DLL=$(WinSysPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\MF Read and create csv Files\2006-04-26-MF-Read-and-create-csv-files\MF-CSV-Create.exe=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\WINNT\system32\STDFTDE.DLL=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\MF Read and create csv Files\Create.ini=$(AppPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 04-09-2006|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-26-MF-Read-and-create-csv-files\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\MF Read and create csv Files\2006-04-26-MF-Read-and-create-csv-files\MF-CSV-Create.exe=No
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\MF Read and create csv Files\Create.ini=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 04-09-2006|DepFile]
+DepCabFile=MF-CSV-Create.CAB
+DepCabRun=MF-CSV-Create.INF
+
+[Package|Standardm‰ﬂiges Setup-Paket 04-09-2006|Distribution]
+Type=single
+Size=
+Title=Microface create all CSV and *.l* to tow CSV-Files
+
+[Package|Standardm‰ﬂiges Setup-Paket 04-09-2006|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 04-09-2006|Little tools FarmÆ-DB-Tools]
+Icon1=MF-CSV-Create.exe
+Title1=Microface create Testfiles to tow CSV-Files
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 04-09-2006|Package]
+PackageFolder=C:\Temp\Microface Database - csv
+ProjectFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\MF Read and create csv Files
+ServerSideCab=
+File1=C:\Temp\Microface Database - csv\setup.exe
+File2=C:\Temp\Microface Database - csv\Setup.Lst
+File3=C:\Temp\Microface Database - csv\MF-CSV-Create.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 13-10-2006|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Temp\Microface Database - csv (2)
+
+[Package|Standardm‰ﬂiges Setup-Paket 13-10-2006|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 13-10-2006|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 13-10-2006|Files Found]
+Create.ini=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\MF Read and create csv Files\Create.ini
+
+[Package|Standardm‰ﬂiges Setup-Paket 13-10-2006|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 13-10-2006|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 13-10-2006|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 13-10-2006|Files Added]
+create.ini=
+
+[Package|Standardm‰ﬂiges Setup-Paket 13-10-2006|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 13-10-2006|Files In Project]
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\Msstdfmt.dll=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\COMCTL32.OCX=Yes
+C:\WINNT\system32\CMCTLDE.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\WINNT\system32\STDFTDE.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\MF Read and create csv Files\MF-CSV-Create.exe=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\MF Read and create csv Files\Create.ini=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 13-10-2006|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 13-10-2006|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 13-10-2006|Install Locations]
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-26-MF-Read-and-create-csv-files\MF-CSV-Create.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\Msstdfmt.dll=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINNT\system32\CMCTLDE.DLL=$(WinSysPath)
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\MF Read and create csv Files\2006-04-26-MF-Read-and-create-csv-files\MF-CSV-Create.exe=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\WINNT\system32\STDFTDE.DLL=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\MF Read and create csv Files\Create.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\MF Read and create csv Files\MF-CSV-Create.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\MF Read and create csv Files\Create.ini=$(AppPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 13-10-2006|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\2006-04-26-MF-Read-and-create-csv-files\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Basic 6.0\MF Read and create csv Files\Create.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\MF Read and create csv Files\2006-04-26-MF-Read-and-create-csv-files\MF-CSV-Create.exe=No
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Finished Projects\MF Read and create csv Files\Create.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\MF Read and create csv Files\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\MF Read and create csv Files\Create.ini=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 13-10-2006|DepFile]
+DepCabFile=MF-CSV-Create.CAB
+DepCabRun=MF-CSV-Create.INF
+
+[Package|Standardm‰ﬂiges Setup-Paket 13-10-2006|Distribution]
+Type=single
+Size=
+Title=Microface create all CSV and *.l* to tow or country CSV-Files
+
+[Package|Standardm‰ﬂiges Setup-Paket 13-10-2006|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 13-10-2006|Little tools FarmÆ-DB-Tools]
+Icon1=MF-CSV-Create.exe
+Title1=Microface create Testfiles to tow CSV-Files
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 13-10-2006|Package]
+PackageFolder=C:\Temp\Microface Database - csv (2)
+ProjectFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\MF Read and create csv Files
+ServerSideCab=
+File1=C:\Temp\Microface Database - csv (2)\setup.exe
+File2=C:\Temp\Microface Database - csv (2)\Setup.Lst
+File3=C:\Temp\Microface Database - csv (2)\MF-CSV-Create.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 1-2-2007|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\01-02-2007-MF Read and create csv Files\Kompellierung 01-02-2007
+
+[Package|Standardm‰ﬂiges Setup-Paket 1-2-2007|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 1-2-2007|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 1-2-2007|Files Found]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1-2-2007|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1-2-2007|Missing Dependency Information]
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MySQL_ohne-ODBC\MyVbQL\MyVbQL.dll=
+
+[Package|Standardm‰ﬂiges Setup-Paket 1-2-2007|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1-2-2007|Files Added]
+c:\dokumente und einstellungen\admin01\eigene dateien\projekte\vb 6\projekt-mysql\myvbql\libmysql.dll=
+
+[Package|Standardm‰ﬂiges Setup-Paket 1-2-2007|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1-2-2007|Files In Project]
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\01-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=Yes
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\STDFTDE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\dao350.dll=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\msjter35.dll=Yes
+C:\WINNT\system32\Msjint35.dll=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\msrd2x35.dll=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MySQL_ohne-ODBC\MyVbQL\MyVbQL.dll=Yes
+C:\WINNT\system32\comctl32.ocx=Yes
+C:\WINNT\system32\CMCTLDE.DLL=Yes
+C:\WINNT\system32\MSFLXGRD.OCX=Yes
+C:\WINNT\system32\FLXGDDE.DLL=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MyVbQL\libmySQL.dll=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 1-2-2007|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 1-2-2007|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 1-2-2007|Install Locations]
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\01-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(CommonFilesSys)\ADO
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\STDFTDE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\dao350.dll=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\msjter35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\Msjint35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd2x35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MySQL_ohne-ODBC\MyVbQL\MyVbQL.dll=$(WinSysPath)
+C:\WINNT\system32\comctl32.ocx=$(WinSysPath)
+C:\WINNT\system32\CMCTLDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\FLXGDDE.DLL=$(WinSysPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MyVbQL\libmySQL.dll=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 1-2-2007|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\01-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MyVbQL\libmySQL.dll=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 1-2-2007|DepFile]
+DepCabFile=MF-Export Dynodata.CAB
+DepCabRun=MF-Export Dynodata.INF
+DepCabURL=http://www.little-tools-farm.de
+
+[Package|Standardm‰ﬂiges Setup-Paket 1-2-2007|Distribution]
+Type=single
+Size=
+Title=Microface Export 1-2-2007
+
+[Package|Standardm‰ﬂiges Setup-Paket 1-2-2007|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 1-2-2007|Little tools FarmÆ-DB-Tools]
+Icon1=MF-CSV-Create.exe
+Title1=Microface Export Beta (01.02.2007)
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 1-2-2007|Package]
+PackageFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\01-02-2007-MF Read and create csv Files\Kompellierung 01-02-2007
+ProjectFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\01-02-2007-MF Read and create csv Files
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\01-02-2007-MF Read and create csv Files\Kompellierung 01-02-2007\setup.exe
+File2=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\01-02-2007-MF Read and create csv Files\Kompellierung 01-02-2007\Setup.Lst
+File3=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\01-02-2007-MF Read and create csv Files\Kompellierung 01-02-2007\MF-CSV-Create.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 10-2-2007|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\10-02-2007_Morgens\11-02-2007-mittags
+
+[Package|Standardm‰ﬂiges Setup-Paket 10-2-2007|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 10-2-2007|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 10-2-2007|Files Found]
+
+[Package|Standardm‰ﬂiges Setup-Paket 10-2-2007|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 10-2-2007|Missing Dependency Information]
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MySQL_ohne-ODBC\MyVbQL\MyVbQL.dll=
+
+[Package|Standardm‰ﬂiges Setup-Paket 10-2-2007|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 10-2-2007|Files Added]
+c:\dokumente und einstellungen\admin01\eigene dateien\projekte\vb 6\projekt-mysql\myvbql\libmysql.dll=
+c:\dokumente und einstellungen\admin01\eigene dateien\visual basic 6\little-tools-farm\privater gebrauch\06-02-2007-mf read and create csv files\create.ini=
+c:\dokumente und einstellungen\admin01\eigene dateien\visual basic 6\little-tools-farm\privater gebrauch\06-02-2007-mf read and create csv files\config.ini=
+
+[Package|Standardm‰ﬂiges Setup-Paket 10-2-2007|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 10-2-2007|Files In Project]
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\STDFTDE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\dao350.dll=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\msjter35.dll=Yes
+C:\WINNT\system32\Msjint35.dll=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\msrd2x35.dll=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MySQL_ohne-ODBC\MyVbQL\MyVbQL.dll=Yes
+C:\WINNT\system32\comctl32.ocx=Yes
+C:\WINNT\system32\CMCTLDE.DLL=Yes
+C:\WINNT\system32\MSFLXGRD.OCX=Yes
+C:\WINNT\system32\FLXGDDE.DLL=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MyVbQL\libmySQL.dll=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\Create.ini=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\config.ini=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 10-2-2007|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 10-2-2007|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 10-2-2007|Install Locations]
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\01-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(CommonFilesSys)\ADO
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\STDFTDE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\dao350.dll=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\msjter35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\Msjint35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd2x35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MySQL_ohne-ODBC\MyVbQL\MyVbQL.dll=$(WinSysPath)
+C:\WINNT\system32\comctl32.ocx=$(WinSysPath)
+C:\WINNT\system32\CMCTLDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\FLXGDDE.DLL=$(WinSysPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MyVbQL\libmySQL.dll=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\Create.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\config.ini=$(AppPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 10-2-2007|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\01-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MyVbQL\libmySQL.dll=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\Create.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\config.ini=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 10-2-2007|DepFile]
+DepCabFile=MF-Export Dynodata.CAB
+DepCabRun=MF-Export Dynodata.INF
+DepCabURL=http://www.little-tools-farm.de
+
+[Package|Standardm‰ﬂiges Setup-Paket 10-2-2007|Distribution]
+Type=single
+Size=
+Title=Microface Export 11-2-2007
+
+[Package|Standardm‰ﬂiges Setup-Paket 10-2-2007|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 10-2-2007|Little tools FarmÆ-DB-Tools]
+Icon1=MF-CSV-Create.exe
+Title1=Microface Export Beta (01.02.2007)
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 10-2-2007|Package]
+PackageFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\10-02-2007_Morgens\11-02-2007-mittags
+ProjectFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\10-02-2007_Morgens\11-02-2007-mittags\setup.exe
+File2=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\10-02-2007_Morgens\11-02-2007-mittags\Setup.Lst
+File3=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\10-02-2007_Morgens\11-02-2007-mittags\MF-CSV-Create.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 19-02-2007|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\19-02-2007
+
+[Package|Standardm‰ﬂiges Setup-Paket 19-02-2007|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 19-02-2007|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 19-02-2007|Files Found]
+config.ini=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\config.ini
+
+[Package|Standardm‰ﬂiges Setup-Paket 19-02-2007|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 19-02-2007|Missing Dependency Information]
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MySQL_ohne-ODBC\MyVbQL\MyVbQL.dll=
+
+[Package|Standardm‰ﬂiges Setup-Paket 19-02-2007|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 19-02-2007|Files Added]
+c:\dokumente und einstellungen\admin01\eigene dateien\projekte\vb 6\projekt-mysql\myvbql\libmysql.dll=
+c:\dokumente und einstellungen\admin01\eigene dateien\visual basic 6\little-tools-farm\privater gebrauch\19-02-2007-csv read and insert to db\create.ini=
+c:\dokumente und einstellungen\admin01\eigene dateien\visual basic 6\little-tools-farm\privater gebrauch\19-02-2007-csv read and insert to db\config.ini=
+
+[Package|Standardm‰ﬂiges Setup-Paket 19-02-2007|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 19-02-2007|Files In Project]
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\STDFTDE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\dao350.dll=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\msjter35.dll=Yes
+C:\WINNT\system32\Msjint35.dll=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\msrd2x35.dll=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MySQL_ohne-ODBC\MyVbQL\MyVbQL.dll=Yes
+C:\WINNT\system32\comctl32.ocx=Yes
+C:\WINNT\system32\CMCTLDE.DLL=Yes
+C:\WINNT\system32\MSFLXGRD.OCX=Yes
+C:\WINNT\system32\FLXGDDE.DLL=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MyVbQL\libmySQL.dll=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\MF-CSV-Create.exe=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\Create.ini=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\config.ini=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 19-02-2007|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 19-02-2007|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 19-02-2007|Install Locations]
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\01-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(CommonFilesSys)\ADO
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\STDFTDE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\dao350.dll=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\msjter35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\Msjint35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd2x35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MySQL_ohne-ODBC\MyVbQL\MyVbQL.dll=$(WinSysPath)
+C:\WINNT\system32\comctl32.ocx=$(WinSysPath)
+C:\WINNT\system32\CMCTLDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\FLXGDDE.DLL=$(WinSysPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MyVbQL\libmySQL.dll=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\Create.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\config.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\MF-CSV-Create.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\Create.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\config.ini=$(AppPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 19-02-2007|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\01-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MyVbQL\libmySQL.dll=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\Create.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\config.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\Create.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\config.ini=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 19-02-2007|DepFile]
+DepCabFile=MF-Export Dynodata.CAB
+DepCabRun=MF-Export Dynodata.INF
+DepCabURL=http://www.little-tools-farm.de
+
+[Package|Standardm‰ﬂiges Setup-Paket 19-02-2007|Distribution]
+Type=single
+Size=
+Title=Microface Export Tools (beta 1.0.4a)
+
+[Package|Standardm‰ﬂiges Setup-Paket 19-02-2007|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 19-02-2007|Little tools FarmÆ-DB-Tools]
+Icon1=MF-CSV-Create.exe
+Title1=Microface Export Beta (19.02.2007)
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 19-02-2007|Package]
+PackageFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\19-02-2007
+ProjectFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\19-02-2007\setup.exe
+File2=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\19-02-2007\Setup.Lst
+File3=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\19-02-2007\MF-CSV-Create.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 21-02-2007|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\19-02-2007
+
+[Package|Standardm‰ﬂiges Setup-Paket 21-02-2007|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 21-02-2007|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 21-02-2007|Files Found]
+config.ini=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\config.ini
+
+[Package|Standardm‰ﬂiges Setup-Paket 21-02-2007|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 21-02-2007|Missing Dependency Information]
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MySQL_ohne-ODBC\MyVbQL\MyVbQL.dll=
+
+[Package|Standardm‰ﬂiges Setup-Paket 21-02-2007|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 21-02-2007|Files Added]
+c:\dokumente und einstellungen\admin01\eigene dateien\projekte\vb 6\projekt-mysql\myvbql\libmysql.dll=
+c:\dokumente und einstellungen\admin01\eigene dateien\visual basic 6\little-tools-farm\privater gebrauch\19-02-2007-csv read and insert to db\create.ini=
+c:\dokumente und einstellungen\admin01\eigene dateien\visual basic 6\little-tools-farm\privater gebrauch\19-02-2007-csv read and insert to db\config.ini=
+
+[Package|Standardm‰ﬂiges Setup-Paket 21-02-2007|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 21-02-2007|Files In Project]
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\STDFTDE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\dao350.dll=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\msjter35.dll=Yes
+C:\WINNT\system32\Msjint35.dll=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\msrd2x35.dll=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MySQL_ohne-ODBC\MyVbQL\MyVbQL.dll=Yes
+C:\WINNT\system32\comctl32.ocx=Yes
+C:\WINNT\system32\CMCTLDE.DLL=Yes
+C:\WINNT\system32\MSFLXGRD.OCX=Yes
+C:\WINNT\system32\FLXGDDE.DLL=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MyVbQL\libmySQL.dll=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\LTF-Microface-db-tools.exe=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\Create.ini=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\config.ini=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 21-02-2007|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 21-02-2007|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 21-02-2007|Install Locations]
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\01-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(CommonFilesSys)\ADO
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\STDFTDE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\dao350.dll=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\msjter35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\Msjint35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd2x35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MySQL_ohne-ODBC\MyVbQL\MyVbQL.dll=$(WinSysPath)
+C:\WINNT\system32\comctl32.ocx=$(WinSysPath)
+C:\WINNT\system32\CMCTLDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\FLXGDDE.DLL=$(WinSysPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MyVbQL\libmySQL.dll=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\Create.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\config.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\MF-CSV-Create.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\Create.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\config.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\LTF-Microface-db-tools.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\21-02-2007-CSV Read and insert to DB\LTF-Microface-db-tools.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\21-02-2007-CSV Read and insert to DB\Create.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\21-02-2007-CSV Read and insert to DB\config.ini=$(AppPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 21-02-2007|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\01-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MyVbQL\libmySQL.dll=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\Create.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\config.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\Create.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\config.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\LTF-Microface-db-tools.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\21-02-2007-CSV Read and insert to DB\LTF-Microface-db-tools.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\21-02-2007-CSV Read and insert to DB\Create.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\21-02-2007-CSV Read and insert to DB\config.ini=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 21-02-2007|DepFile]
+DepCabFile=MF-Export Dynodata.CAB
+DepCabRun=MF-Export Dynodata.INF
+DepCabURL=http://www.little-tools-farm.de
+
+[Package|Standardm‰ﬂiges Setup-Paket 21-02-2007|Distribution]
+Type=single
+Size=
+Title=Microface Export Tools (beta 1.0.4b)
+
+[Package|Standardm‰ﬂiges Setup-Paket 21-02-2007|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 21-02-2007|Little tools FarmÆ-DB-Tools]
+Icon1=MF-CSV-Create.exe
+Title1=Microface Export Beta (1.0.4b)
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 21-02-2007|Package]
+PackageFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\19-02-2007
+ProjectFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\19-02-2007\setup.exe
+File2=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\19-02-2007\Setup.Lst
+File3=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\19-02-2007\LTF-Microface-db-tools.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standardm‰ﬂiges Setup-Paket 27-02-2007|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\19-02-2007
+
+[Package|Standardm‰ﬂiges Setup-Paket 27-02-2007|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 27-02-2007|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 27-02-2007|Files Found]
+config.ini=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\config.ini
+
+[Package|Standardm‰ﬂiges Setup-Paket 27-02-2007|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 27-02-2007|Missing Dependency Information]
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MySQL_ohne-ODBC\MyVbQL\MyVbQL.dll=
+
+[Package|Standardm‰ﬂiges Setup-Paket 27-02-2007|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 27-02-2007|Files Added]
+c:\dokumente und einstellungen\admin01\eigene dateien\projekte\vb 6\projekt-mysql\myvbql\libmysql.dll=
+c:\dokumente und einstellungen\admin01\eigene dateien\visual basic 6\little-tools-farm\privater gebrauch\19-02-2007-csv read and insert to db\create.ini=
+c:\dokumente und einstellungen\admin01\eigene dateien\visual basic 6\little-tools-farm\privater gebrauch\19-02-2007-csv read and insert to db\config.ini=
+
+[Package|Standardm‰ﬂiges Setup-Paket 27-02-2007|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 27-02-2007|Files In Project]
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\STDFTDE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\dao350.dll=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\msjter35.dll=Yes
+C:\WINNT\system32\Msjint35.dll=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\msrd2x35.dll=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MySQL_ohne-ODBC\MyVbQL\MyVbQL.dll=Yes
+C:\WINNT\system32\comctl32.ocx=Yes
+C:\WINNT\system32\CMCTLDE.DLL=Yes
+C:\WINNT\system32\MSFLXGRD.OCX=Yes
+C:\WINNT\system32\FLXGDDE.DLL=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MyVbQL\libmySQL.dll=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\LTF-Microface-db-tools.exe=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\Create.ini=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\config.ini=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 27-02-2007|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 27-02-2007|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 27-02-2007|Install Locations]
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\01-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(CommonFilesSys)\ADO
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\STDFTDE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\dao350.dll=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\msjter35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\Msjint35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd2x35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MySQL_ohne-ODBC\MyVbQL\MyVbQL.dll=$(WinSysPath)
+C:\WINNT\system32\comctl32.ocx=$(WinSysPath)
+C:\WINNT\system32\CMCTLDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\FLXGDDE.DLL=$(WinSysPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MyVbQL\libmySQL.dll=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\Create.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\config.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\MF-CSV-Create.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\Create.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\config.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\LTF-Microface-db-tools.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\21-02-2007-CSV Read and insert to DB\LTF-Microface-db-tools.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\21-02-2007-CSV Read and insert to DB\Create.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\21-02-2007-CSV Read and insert to DB\config.ini=$(AppPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 27-02-2007|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\01-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MyVbQL\libmySQL.dll=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\Create.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\config.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\Create.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\config.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\LTF-Microface-db-tools.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\21-02-2007-CSV Read and insert to DB\LTF-Microface-db-tools.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\21-02-2007-CSV Read and insert to DB\Create.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\21-02-2007-CSV Read and insert to DB\config.ini=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 27-02-2007|DepFile]
+DepCabFile=MF-Export Dynodata.CAB
+DepCabRun=MF-Export Dynodata.INF
+DepCabURL=http://www.little-tools-farm.de
+
+[Package|Standardm‰ﬂiges Setup-Paket 27-02-2007|Distribution]
+Type=single
+Size=
+Title=Microface Export Tools (beta 1.0.4b)
+
+[Package|Standardm‰ﬂiges Setup-Paket 27-02-2007|Package]
+PackageFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\19-02-2007
+ProjectFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\19-02-2007\setup.exe
+File2=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\19-02-2007\Setup.Lst
+File3=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\19-02-2007\LTF-Microface-db-tools.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standardm‰ﬂiges Setup-Paket 27-02-2007|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 27-02-2007|Little tools FarmÆ-DB-Tools]
+Icon1=MF-CSV-Create.exe
+Title1=Microface Export Beta (1.0.4b)
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 28-02-2007|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\kompilert
+
+[Package|Standardm‰ﬂiges Setup-Paket 28-02-2007|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 28-02-2007|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 28-02-2007|Files Found]
+config.ini=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\config.ini
+
+[Package|Standardm‰ﬂiges Setup-Paket 28-02-2007|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 28-02-2007|Missing Dependency Information]
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MySQL_ohne-ODBC\MyVbQL\MyVbQL.dll=
+
+[Package|Standardm‰ﬂiges Setup-Paket 28-02-2007|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 28-02-2007|Files Added]
+c:\dokumente und einstellungen\admin01\eigene dateien\projekte\vb 6\projekt-mysql\myvbql\libmysql.dll=
+c:\dokumente und einstellungen\admin01\eigene dateien\visual basic 6\little-tools-farm\privater gebrauch\19-02-2007-csv read and insert to db\create.ini=
+c:\dokumente und einstellungen\admin01\eigene dateien\visual basic 6\little-tools-farm\privater gebrauch\19-02-2007-csv read and insert to db\config.ini=
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\logo.jpg=
+
+[Package|Standardm‰ﬂiges Setup-Paket 28-02-2007|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 28-02-2007|Files In Project]
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\STDFTDE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\dao350.dll=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\msjter35.dll=Yes
+C:\WINNT\system32\Msjint35.dll=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\msrd2x35.dll=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MySQL_ohne-ODBC\MyVbQL\MyVbQL.dll=Yes
+C:\WINNT\system32\comctl32.ocx=Yes
+C:\WINNT\system32\CMCTLDE.DLL=Yes
+C:\WINNT\system32\MSFLXGRD.OCX=Yes
+C:\WINNT\system32\FLXGDDE.DLL=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MyVbQL\libmySQL.dll=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\LTF-Microface-db-tools.exe=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\Create.ini=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\config.ini=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\logo.jpg=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 28-02-2007|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 28-02-2007|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 28-02-2007|Install Locations]
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\01-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\System\ado\msado20.tlb=$(CommonFilesSys)\ADO
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\STDFTDE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\dao350.dll=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\msjter35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\Msjint35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd2x35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MySQL_ohne-ODBC\MyVbQL\MyVbQL.dll=$(WinSysPath)
+C:\WINNT\system32\comctl32.ocx=$(WinSysPath)
+C:\WINNT\system32\CMCTLDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\FLXGDDE.DLL=$(WinSysPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MyVbQL\libmySQL.dll=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\Create.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\config.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\MF-CSV-Create.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\Create.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\config.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\LTF-Microface-db-tools.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\21-02-2007-CSV Read and insert to DB\LTF-Microface-db-tools.exe=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\21-02-2007-CSV Read and insert to DB\Create.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\21-02-2007-CSV Read and insert to DB\config.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\logo.jpg=$(AppPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 28-02-2007|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\01-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MyVbQL\libmySQL.dll=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\Create.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\06-02-2007-MF Read and create csv Files\config.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\MF-CSV-Create.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\Create.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\config.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\LTF-Microface-db-tools.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\21-02-2007-CSV Read and insert to DB\LTF-Microface-db-tools.exe=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\21-02-2007-CSV Read and insert to DB\Create.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\21-02-2007-CSV Read and insert to DB\config.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\logo.jpg=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 28-02-2007|DepFile]
+DepCabFile=MF-Export Dynodata.CAB
+DepCabRun=MF-Export Dynodata.INF
+DepCabURL=http://www.little-tools-farm.de
+
+[Package|Standardm‰ﬂiges Setup-Paket 28-02-2007|Distribution]
+Type=single
+Size=
+Title=Microface Export Tools (beta 1.0.4b)
+
+[Package|Standardm‰ﬂiges Setup-Paket 28-02-2007|Package]
+PackageFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\kompilert
+ProjectFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\kompilert\setup.exe
+File2=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\kompilert\Setup.Lst
+File3=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\kompilert\LTF-Microface-db-tools.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standardm‰ﬂiges Setup-Paket 28-02-2007|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 28-02-2007|Little tools FarmÆ-DB-Tools]
+Icon1=MF-CSV-Create.exe
+Title1=Microface Export Beta (1.0.4b)
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Standardm‰ﬂiges Setup-Paket tmp_22-03-2007|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\kompilert
+
+[Package|Standardm‰ﬂiges Setup-Paket tmp_22-03-2007|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standardm‰ﬂiges Setup-Paket tmp_22-03-2007|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket tmp_22-03-2007|Files Found]
+
+[Package|Standardm‰ﬂiges Setup-Paket tmp_22-03-2007|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket tmp_22-03-2007|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket tmp_22-03-2007|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket tmp_22-03-2007|Files Added]
+
+[Package|Standardm‰ﬂiges Setup-Paket tmp_22-03-2007|Files Removed]
+c:\dokumente und einstellungen\admin01\eigene dateien\projekte\vb 6\projekt-mysql\mysql_ohne-odbc\myvbql\myvbql.dll=
+
+[Package|Standardm‰ﬂiges Setup-Paket tmp_22-03-2007|Files In Project]
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\LTF-Microface-db-tools.exe=Yes
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\STDFTDE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\dao350.dll=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\msjter35.dll=Yes
+C:\WINNT\system32\Msjint35.dll=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\msrd2x35.dll=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Projekte\VB 6\Projekt-MySQL\MySQL_ohne-ODBC\MyVbQL\MyVbQL.dll=No
+C:\WINNT\system32\comctl32.ocx=Yes
+C:\WINNT\system32\CMCTLDE.DLL=Yes
+C:\WINNT\system32\MSFLXGRD.OCX=Yes
+C:\WINNT\system32\FLXGDDE.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket tmp_22-03-2007|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket tmp_22-03-2007|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket tmp_22-03-2007|Install Locations]
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\LTF-Microface-db-tools.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\STDFTDE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\dao350.dll=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\msjter35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\Msjint35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd2x35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\comctl32.ocx=$(WinSysPath)
+C:\WINNT\system32\CMCTLDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\FLXGDDE.DLL=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket tmp_22-03-2007|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\LTF-Microface-db-tools.exe=No
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket tmp_22-03-2007|Distribution]
+Type=single
+Size=
+Title=Microface Export
+
+[Package|Standardm‰ﬂiges Setup-Paket tmp_22-03-2007|IconGroups]
+Group0=Microface Export
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket tmp_22-03-2007|Microface Export]
+Icon1=LTF-Microface-db-tools.exe
+Title1=Microface Export
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket tmp_22-03-2007|Package]
+PackageFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\kompilert
+ProjectFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\kompilert\setup.exe
+File2=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\kompilert\Setup.Lst
+File3=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\kompilert\LTF-Microface-db-tools.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Microface Export]
+Icon1=LTF-Microface-db-tools.exe
+Title1=Microface Export
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\kompilert
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Files Found]
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Files Added]
+c:\dokumente und einstellungen\admin01\eigene dateien\visual basic 6\little-tools-farm\privater gebrauch\19-02-2007-csv read and insert to db\libmysql.dll=
+c:\dokumente und einstellungen\admin01\eigene dateien\visual basic 6\little-tools-farm\privater gebrauch\19-02-2007-csv read and insert to db\config.ini=
+c:\dokumente und einstellungen\admin01\eigene dateien\visual basic 6\little-tools-farm\privater gebrauch\19-02-2007-csv read and insert to db\create.ini=
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\logo.jpg=
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Files In Project]
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\LTF-Microface-db-tools.exe=Yes
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6DE.DLL=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\STDFTDE.DLL=Yes
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\dao350.dll=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\msjter35.dll=Yes
+C:\WINNT\system32\Msjint35.dll=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\msrd2x35.dll=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MyVbQL.dll=Yes
+C:\WINNT\system32\comctl32.ocx=Yes
+C:\WINNT\system32\CMCTLDE.DLL=Yes
+C:\WINNT\system32\MSFLXGRD.OCX=Yes
+C:\WINNT\system32\FLXGDDE.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\libmySQL.dll=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\config.ini=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\Create.ini=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\logo.jpg=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Install Locations]
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\LTF-Microface-db-tools.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6DE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\STDFTDE.DLL=$(WinSysPath)
+C:\Programme\Gemeinsame Dateien\Microsoft Shared\DAO\dao350.dll=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\msjter35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\Msjint35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd2x35.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MyVbQL.dll=$(WinSysPath)
+C:\WINNT\system32\comctl32.ocx=$(WinSysPath)
+C:\WINNT\system32\CMCTLDE.DLL=$(WinSysPath)
+C:\WINNT\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\FLXGDDE.DLL=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\libmySQL.dll=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\config.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\Create.ini=$(AppPath)
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\logo.jpg=$(AppPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Configure Shared Files]
+Applicable=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\LTF-Microface-db-tools.exe=No
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\libmySQL.dll=Yes
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\config.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\Create.ini=No
+C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\logo.jpg=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Distribution]
+Type=single
+Size=
+Title=Microface Data Export
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|IconGroups]
+Group0=Little tools FarmÆ-DB-Tools
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Little tools FarmÆ-DB-Tools]
+Icon1=LTF-Microface-db-tools.exe
+Title1=Microface Export
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 24-03-2007|Package]
+PackageFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\kompilert
+ProjectFolder=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB
+ServerSideCab=
+File1=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\kompilert\setup.exe
+File2=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\kompilert\Setup.Lst
+File3=C:\Dokumente und Einstellungen\admin01\Eigene Dateien\Visual Basic 6\Little-Tools-Farm\Privater Gebrauch\19-02-2007-CSV Read and insert to DB\kompilert\LTF-Microface-db-tools.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

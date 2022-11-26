@@ -1,0 +1,12 @@
+Form1 = 44, 44, 506, 492, Z, 22, 22, 555, 470, C
+Create_ini = 198, 198, 637, 646, 
+frmAbout = 66, 66, 555, 514, , 110, 110, 434, 477, C
+OnlyCharaters = 110, 110, 582, 558, 
+country = 44, 44, 516, 492, 
+config_ini = 0, 0, 476, 448, 
+MySQLdb = 66, 66, 394, 514, 
+GlobalVariables = 22, 22, 465, 470, 
+Module4 = 0, 0, 491, 448, 
+A_Coments = 220, 220, 711, 668, 
+MakleQueryCSVToDB = 198, 198, 708, 646, 
+FormMeldung = 0, 0, 0, 0, C, 44, 44, 582, 492, C

@@ -1,0 +1,31 @@
+[Version]
+Version=1.0.0.34
+
+[MF-CSV-Create.exe <0007>]
+Dest=$(AppPath)
+Date=31.01.2007
+Time=23:40
+Version=1.0.0.34
+CABFilename=MF-Export Dynodata.CAB
+CABDefaultURL=http://www.little-tools-farm.de
+CABINFFile=MF-Export Dynodata.INF
+Uses1=msvbvm60.dll
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=VB6DE.DLL
+Uses8=msado20.tlb
+Uses9=MSBIND.DLL
+Uses10=dao350.dll
+Uses11=MyVbQL.dll
+Uses12=comctl32.ocx
+Uses13=MSFLXGRD.OCX
+Uses14=libmySQL.dll
+
+[MyVbQL.dll <0007>]
+Dest=$(WinSysPath)
+Date=12.02.2001
+Time=11:59
+Version=2.0.0.0
